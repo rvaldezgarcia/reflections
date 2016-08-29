@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need it?
 	directory.
 
 	I don't know why I need it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The area holds the file to be sent.
+
+	It helps us decide what changes we want to commit to the
+	repository.
