@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need it?
+
+	You get a message from git and .git folder is added to the 
+	directory.
+
+	I don't know why I need it.
