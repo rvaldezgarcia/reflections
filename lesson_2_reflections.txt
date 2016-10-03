@@ -15,3 +15,13 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging are to make sure you have one commit per logical change?
 
 	I can use to verify or reset changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Helps rollback to different changes.
+
+	Create test areas, regionalization of apps, sandboxes to let other people change the project, etc.
+
+How do diagrams help you visualize the branch structure?
+
+	They help users in recognizing the history of changes in the project and the paths users took making commits.
